@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Transformer architectures for NLU mostly summarizations.
 - 👯 I’m always open to collaborating on cool ideas 
 - 💬 Ask me about anything you think I can answer.
-- 📫 How to reach me: [...](http://sushant.info.np/)
+- 📫 How to reach me?: [Check this!](http://sushant.info.np/)
 - 😄 Pronouns: he/him/his
 <!-- - ⚡ Fun fact:  -->
 
