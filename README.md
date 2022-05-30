@@ -1,5 +1,21 @@
 ### Namastey! from Nepal :nepal:🙏
 
+<a href="https://www.instagram.com/eSushant/">
+  <img align="left" alt="Sushant's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+
+<a href="https://twitter.com/eSushant">
+  <img align="left" alt="Sushant Gautam | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/eSushant/">
+  <img align="left" alt="Sushant's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=sushantgautam.sushantgautam)
+
+<br />
+
+
 - 🔭 I’m currently working on multiple projects mostly ML applications.
 - 🌱 I’m currently learning Transformer architectures for NLU mostly summarizations.
 - 👯 I’m always open to collaborating on cool ideas 
