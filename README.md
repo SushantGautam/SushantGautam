@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python          2 hrs 39 mins   ███████████▒░░░░░░░░░░░░░   45.69 %
-JavaScript   1 hr 4 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.58 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
