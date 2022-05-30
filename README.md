@@ -21,6 +21,7 @@
 - 💬 Ask me about anything you think I can answer.
 - 📫 How to reach me?: [Check this!](http://sushant.info.np/)
 - 😄 Pronouns: he/him/his
+- 🌱Ⓥ
 <!-- - ⚡ Fun fact:  -->
 
 
