@@ -42,11 +42,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 July 2022 - To: 08 July 2022
+From: 02 July 2022 - To: 09 July 2022
 
-Total Time: 13 hrs 13 mins
+Total Time: 13 hrs 11 mins
 
-Other              76 hrs 10 mins  █████████████████████▒░░░   85.20 %
+Other              77 hrs 28 mins  █████████████████████▒░░░   85.45 %
 ```
 
 <!--END_SECTION:waka-->
