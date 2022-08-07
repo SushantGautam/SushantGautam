@@ -42,15 +42,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 July 2022 - To: 05 August 2022
+From: 30 July 2022 - To: 06 August 2022
 
 Total Time: 2 hrs 7 mins
 
-Python             1 hr 35 mins    ███████████████████░░░░░░   75.41 %
-JSON               22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
-requirements.txt   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-CSV/TSV            3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-Text               0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Python             1 hr 38 mins    ██████████████████░░░░░░░   72.13 %
+JSON               23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.25 %
+requirements.txt   9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+CSV/TSV            3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Text               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 ```
 
 <!--END_SECTION:waka-->
