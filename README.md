@@ -42,15 +42,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 July 2022 - To: 07 August 2022
+From: 01 August 2022 - To: 08 August 2022
 
-Total Time: 2 hrs 7 mins
+Total Time: 4 hrs 4 mins
 
-Python             1 hr 38 mins    ██████████████████░░░░░░░   72.13 %
-JSON               23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.25 %
-requirements.txt   9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
-CSV/TSV            3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-Text               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Python             4 hrs 42 mins   ██████████████████▒░░░░░░   72.98 %
+JSON               49 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 %
+Bash               35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
+requirements.txt   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+CSV/TSV            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+HTML               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
