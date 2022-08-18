@@ -42,16 +42,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 August 2022 - To: 16 August 2022
+From: 10 August 2022 - To: 17 August 2022
 
-Total Time: 2 hrs 59 mins
+Total Time: 2 hrs 21 mins
 
-Python             1 hr 44 mins    █████████░░░░░░░░░░░░░░░░   35.45 %
-Dart               1 hr 15 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.68 %
-HTML               33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
-textmate           30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-Bash               26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
-JSON               8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Other              2 hrs           ██████▓░░░░░░░░░░░░░░░░░░   26.20 %
 ```
 
 <!--END_SECTION:waka-->
