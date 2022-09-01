@@ -42,12 +42,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 August 2022 - To: 30 August 2022
+From: 24 August 2022 - To: 31 August 2022
 
-Total Time: 16 hrs 5 mins
+Total Time: 16 hrs 18 mins
 
-Python       16 hrs 23 mins  ███████████████████████▒░   92.81 %
-Other        30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+Python             15 hrs 12 mins  ████████████████████▓░░░░   83.02 %
+Other              2 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
 ```
 
 <!--END_SECTION:waka-->
