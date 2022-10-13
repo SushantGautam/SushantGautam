@@ -42,16 +42,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 October 2022 - To: 11 October 2022
+From: 05 October 2022 - To: 12 October 2022
 
-Total Time: 1 hr 40 mins
+Total Time: 4 hrs 27 mins
 
-Markdown           38 mins         █████████▓░░░░░░░░░░░░░░░   38.36 %
-Python             30 mins         ███████▓░░░░░░░░░░░░░░░░░   30.63 %
-GitIgnore file     22 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
-Batchfile          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-Text               3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-HTML               2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+JavaScript         1 hr 27 mins    ████████▒░░░░░░░░░░░░░░░░   32.77 %
+Python             57 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.49 %
+Markdown           38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
+HTML               36 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
+GitIgnore file     22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+Bash               17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
 ```
 
 <!--END_SECTION:waka-->
