@@ -42,16 +42,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 October 2022 - To: 12 October 2022
+From: 06 October 2022 - To: 13 October 2022
 
-Total Time: 4 hrs 27 mins
+Total Time: 8 hrs 24 mins
 
-JavaScript         1 hr 27 mins    ████████▒░░░░░░░░░░░░░░░░   32.77 %
-Python             57 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.49 %
-Markdown           38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
-HTML               36 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
-GitIgnore file     22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
-Bash               17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
+Python             4 hrs 26 mins   ███████████▓░░░░░░░░░░░░░   47.21 %
+JavaScript         1 hr 27 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.54 %
+Other              1 hr            ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
 ```
 
 <!--END_SECTION:waka-->
