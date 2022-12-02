@@ -42,11 +42,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 November 2022 - To: 30 November 2022
+From: 24 November 2022 - To: 01 December 2022
 
-Total Time: 3 hrs
+Total Time: 4 hrs 39 mins
 
-Other           36 hrs 22 mins  ███████████████████████░░   92.38 %
+Other             35 hrs 27 mins  ██████████████████████░░░   88.38 %
 ```
 
 <!--END_SECTION:waka-->
