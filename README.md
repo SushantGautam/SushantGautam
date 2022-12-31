@@ -42,11 +42,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 December 2022 - To: 29 December 2022
+From: 23 December 2022 - To: 30 December 2022
 
-Total Time: 2 hrs 27 mins
+Total Time: 34 mins
 
-Other              8 hrs 37 mins   ███████████████████▒░░░░░   77.80 %
+Python             34 mins         ████████████████████████▓   98.24 %
+.env file          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Text               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
