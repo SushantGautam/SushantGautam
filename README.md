@@ -42,16 +42,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 December 2022 - To: 05 January 2023
+From: 30 December 2022 - To: 06 January 2023
 
-Total Time: 2 hrs 28 mins
+Total Time: 5 hrs 7 mins
 
-Python             1 hr 43 mins    █████████████████▒░░░░░░░   69.74 %
-Text               37 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.98 %
-requirements.txt   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-GitIgnore file     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-HTML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Bash               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python             3 hrs 40 mins   ██████████████████░░░░░░░   71.54 %
+Text               40 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 %
+Bash               18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+Batchfile          12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+requirements.txt   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Markdown           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 ```
 
 <!--END_SECTION:waka-->
