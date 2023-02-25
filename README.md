@@ -42,16 +42,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 February 2023 - To: 23 February 2023
+From: 17 February 2023 - To: 24 February 2023
 
-Total Time: 19 hrs 2 mins
+Total Time: 22 hrs 9 mins
 
-Python             14 hrs 37 mins  ███████████████████▒░░░░░   76.77 %
-HTML               3 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.08 %
-Text               25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-requirements.txt   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-.env file          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-C                  6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Python             15 hrs 12 mins  █████████████████░░░░░░░░   68.58 %
+HTML               5 hrs 39 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.52 %
+Text               28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Bash               23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+requirements.txt   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+.env file          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
