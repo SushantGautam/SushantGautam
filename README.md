@@ -42,16 +42,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 February 2023 - To: 01 March 2023
+From: 23 February 2023 - To: 02 March 2023
 
-Total Time: 14 hrs 7 mins
+Total Time: 13 hrs 2 mins
 
-Python             10 hrs 23 mins  ██████████████████▒░░░░░░   73.62 %
-HTML               3 hrs 9 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.35 %
-Bash               21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-C                  4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Text               4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-requirements.txt   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Python             9 hrs 56 mins   █████████████████▓░░░░░░░   70.83 %
+HTML               2 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.77 %
+Other              1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
 ```
 
 <!--END_SECTION:waka-->
