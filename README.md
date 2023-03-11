@@ -42,12 +42,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 March 2023 - To: 09 March 2023
+From: 03 March 2023 - To: 10 March 2023
 
-Total Time: 8 hrs 8 mins
+Total Time: 13 hrs 1 min
 
-Python             7 hrs 10 mins   ███████████████████▓░░░░░   78.61 %
-Other              1 hr            ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
+Python             12 hrs 18 mins  ██████████████████████░░░   87.74 %
+Other              1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
 ```
 
 <!--END_SECTION:waka-->
