@@ -42,15 +42,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 April 2023 - To: 11 April 2023
+From: 05 April 2023 - To: 12 April 2023
 
-Total Time: 3 hrs 25 mins
+Total Time: 2 hrs 49 mins
 
-Python             3 hrs 16 mins   ████████████████████████░   95.40 %
-Markdown           4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-GitIgnore file     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-HTML               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-CSS                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Python             2 hrs 39 mins   ███████████████████████▓░   94.40 %
+Markdown           4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+GitIgnore file     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+HTML               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+CSS                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 Locale             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
