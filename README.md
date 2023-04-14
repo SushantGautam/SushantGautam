@@ -42,16 +42,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 April 2023 - To: 12 April 2023
+From: 06 April 2023 - To: 13 April 2023
 
-Total Time: 2 hrs 49 mins
+Total Time: 2 hrs 36 mins
 
-Python             2 hrs 39 mins   ███████████████████████▓░   94.40 %
-Markdown           4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-GitIgnore file     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-HTML               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-CSS                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Locale             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python             2 hrs 28 mins   █████████████████░░░░░░░░   68.33 %
+Other              1 hr            ███████░░░░░░░░░░░░░░░░░░   27.65 %
 ```
 
 <!--END_SECTION:waka-->
