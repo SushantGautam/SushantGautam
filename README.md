@@ -42,13 +42,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 May 2023 - To: 08 May 2023
+From: 02 May 2023 - To: 09 May 2023
 
-Total Time: 7 hrs 27 mins
+Total Time: 3 hrs 9 mins
 
-Python   7 hrs 6 mins    █████████████████████░░░░   84.03 %
-Other    1 hr            ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
-HTML     21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+Python   3 hrs 9 mins    ███████████████████░░░░░░   75.95 %
+Other    1 hr            ██████░░░░░░░░░░░░░░░░░░░   24.04 %
+HTML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
