@@ -42,13 +42,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 May 2023 - To: 17 May 2023
+From: 11 May 2023 - To: 18 May 2023
 
-Total Time: 1 min
+Total Time: 18 mins
 
-Other    14 hrs          █████████████████████████   99.84 %
+Other    14 hrs          ████████████████████████▒   97.89 %
+Text     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+HTML     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-HTML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
