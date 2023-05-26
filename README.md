@@ -42,15 +42,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 May 2023 - To: 24 May 2023
+From: 18 May 2023 - To: 25 May 2023
 
-Total Time: 36 mins
+Total Time: 20 mins
 
-Other              2 hrs 30 mins   ████████████████████░░░░░   80.29 %
-Text               12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
-Markdown           11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-HTML               6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-Batchfile          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Other              2 hrs 30 mins   ██████████████████████░░░   88.20 %
+Markdown           11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+HTML               2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Batchfile          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Python             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
