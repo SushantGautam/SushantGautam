@@ -42,15 +42,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2023 - To: 12 June 2023
+From: 06 June 2023 - To: 13 June 2023
 
-Total Time: 17 hrs 53 mins
+Total Time: 14 hrs 8 mins
 
-Python           12 hrs 11 mins  █████████████████░░░░░░░░   68.16 %
-YAML             3 hrs 33 mins   █████░░░░░░░░░░░░░░░░░░░░   19.89 %
-JSON             1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
-CSV              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-Text             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Python           8 hrs 18 mins   ██████████████▓░░░░░░░░░░   58.18 %
+YAML             3 hrs 43 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.12 %
+JSON             1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+CSV              21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Text             19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 ```
 
 <!--END_SECTION:waka-->
