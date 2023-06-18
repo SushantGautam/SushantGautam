@@ -42,11 +42,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 June 2023 - To: 16 June 2023
+From: 10 June 2023 - To: 17 June 2023
 
 Total Time: 19 hrs 2 mins
 
-Python           10 hrs 11 mins  █████████████▒░░░░░░░░░░░   53.06 %
+Python           10 hrs 10 mins  █████████████▒░░░░░░░░░░░   53.06 %
 YAML             6 hrs 58 mins   █████████░░░░░░░░░░░░░░░░   36.35 %
 Text             49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
 JSON             45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
