@@ -16,7 +16,7 @@
 <br />
 
 - 🔭 I’m currently working on multiple projects, mostly ML applications.
-- 🌱 I’m currently learning Transformer architectures for NLU, mostly summarizations.
+- 🌱 I’m currently learning Transformer architectures for Vision, NLU, mostly summarizations.
 - 👯 I’m always open to collaborating on cool ideas 
 - 💬 Ask me about anything you think I can answer.
 - 📫 How to reach me?: [Check this!](http://sushant.info.np/)
