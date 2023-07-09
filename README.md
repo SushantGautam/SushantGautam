@@ -4,8 +4,8 @@
   <img align="left" alt="Sushant's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/esushan">
-    <img alt="Twitter" title="LinkedIn" height="22px" width="22px" src="https://cdn.simpleicons.org/twitter">
+<a href="https://twitter.com/eSushant">
+    <img alt="Twitter" title="Twitter" height="22px" width="22px" src="https://cdn.simpleicons.org/twitter">
 </a>
 
 <a href="https://www.linkedin.com/in/esushant">
