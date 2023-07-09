@@ -4,11 +4,12 @@
   <img align="left" alt="Sushant's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
-<a href="https://twitter.com/eSushant">
-  <img align="left" alt="Sushant Gautam | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://www.linkedin.com/in/esushan">
+    <img alt="Twitter" title="LinkedIn" height="22px" width="22px" src="https://cdn.simpleicons.org/twitter">
 </a>
-<a href="https://www.linkedin.com/in/eSushant/">
-  <img align="left" alt="Sushant's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+
+<a href="https://www.linkedin.com/in/esushant">
+    <img alt="LinkedIn" title="LinkedIn" height="22px" width="22px" src="https://cdn.simpleicons.org/linkedin">
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sushantgautam.sushantgautam)
