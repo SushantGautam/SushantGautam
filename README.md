@@ -43,14 +43,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 July 2023 - To: 21 July 2023
+From: 15 July 2023 - To: 22 July 2023
 
 Total Time: 8 hrs 3 mins
 
-Other           55 hrs 40 mins  ██████████████████████░░░   87.36 %
-Python          7 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
-Documentation   20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-JSON            8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Other           54 hrs 56 mins  █████████████████████▓░░░   87.20 %
+Python          7 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
+Documentation   22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+JSON            9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 Git Config      6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
