@@ -43,15 +43,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2023 - To: 31 July 2023
+From: 25 July 2023 - To: 01 August 2023
 
-Total Time: 2 hrs 35 mins
+Total Time: 1 hr 13 mins
 
-Other           51 hrs 44 mins  ███████████████████████▓░   95.24 %
-Python          1 hr 25 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-Documentation   57 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-JSON            4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-LaTeX           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Other           49 hrs 43 mins  ████████████████████████▒   97.61 %
+Documentation   59 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+LaTeX           11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+HTML+Django     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
