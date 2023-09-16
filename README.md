@@ -43,13 +43,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2023 - To: 14 September 2023
+From: 08 September 2023 - To: 15 September 2023
 
-Total Time: 4 hrs 27 mins
+Total Time: 4 hrs 17 mins
 
-Other           41 hrs 30 mins  ██████████████████████▓░░   90.30 %
-Documentation   3 hrs 43 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-HTML+Django     43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Other           41 hrs 29 mins  ██████████████████████▓░░   90.63 %
+Documentation   3 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+HTML+Django     43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+LaTeX           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
