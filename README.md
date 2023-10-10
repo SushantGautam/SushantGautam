@@ -43,13 +43,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2023 - To: 08 October 2023
+From: 02 October 2023 - To: 09 October 2023
 
-Total Time: 17 hrs 56 mins
+Total Time: 18 hrs 2 mins
 
-Other           35 hrs 17 mins  ████████████████▓░░░░░░░░   66.31 %
-Documentation   17 hrs 52 mins  ████████▒░░░░░░░░░░░░░░░░   33.59 %
-LaTeX           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Other           32 hrs 22 mins  ████████████████░░░░░░░░░   64.21 %
+Documentation   18 hrs          █████████░░░░░░░░░░░░░░░░   35.71 %
+LaTeX           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
