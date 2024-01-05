@@ -43,15 +43,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 December 2023 - To: 03 January 2024
+From: 28 December 2023 - To: 04 January 2024
 
-Total Time: 2 hrs 51 mins
+Total Time: 2 hrs 38 mins
 
-Other           48 hrs 45 mins  ███████████████████████▓░   94.46 %
-Python          1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-Documentation   1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-LaTeX           18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Git Config      5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Other           36 hrs 52 mins  ███████████████████████▒░   93.30 %
+Python          1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+Documentation   54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+LaTeX           18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Git Config      5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
