@@ -43,13 +43,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 January 2024 - To: 26 January 2024
+From: 20 January 2024 - To: 27 January 2024
 
 Total Time: 2 hrs 1 min
 
-Other           39 hrs 33 mins  ███████████████████████▓░   95.13 %
-Documentation   1 hr 38 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-LaTeX           22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Other           37 hrs 44 mins  ███████████████████████▓░   94.90 %
+Documentation   1 hr 38 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+LaTeX           22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
