@@ -43,14 +43,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2024 - To: 13 February 2024
+From: 07 February 2024 - To: 14 February 2024
 
-Total Time: 5 hrs 39 mins
+Total Time: 4 hrs 27 mins
 
-Other           43 hrs 23 mins  ██████████████████████░░░   88.46 %
-LaTeX           2 hrs 31 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-Documentation   1 hr 37 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-HTML+Django     1 hr 30 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Other           39 hrs 15 mins  ██████████████████████▒░░   89.81 %
+LaTeX           1 hr 59 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+HTML+Django     1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Documentation   57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 ```
 
 <!--END_SECTION:waka-->
