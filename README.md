@@ -43,13 +43,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2024 - To: 01 April 2024
+From: 26 March 2024 - To: 02 April 2024
 
-Total Time: 27 mins
+Total Time: 1 hr 34 mins
 
-Other           16 hrs 29 mins  ████████████████████████▒   97.28 %
-LaTeX           23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-Documentation   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Other           19 hrs 43 mins  ███████████████████████░░   92.59 %
+Documentation   1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+LaTeX           20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->
