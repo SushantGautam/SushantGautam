@@ -43,15 +43,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 May 2024 - To: 29 May 2024
+From: 23 May 2024 - To: 30 May 2024
 
-Total Time: 8 hrs 22 mins
+Total Time: 8 hrs 8 mins
 
-Other           41 hrs 30 mins  ████████████████████▓░░░░   83.21 %
-Python          5 hrs 49 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
-Documentation   53 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-LaTeX           43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-JSON            33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Other           43 hrs 46 mins  █████████████████████░░░░   84.32 %
+Python          5 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
+LaTeX           1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+JSON            30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Documentation   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
