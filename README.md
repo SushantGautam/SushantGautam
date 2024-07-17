@@ -43,12 +43,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 July 2024 - To: 15 July 2024
+From: 09 July 2024 - To: 16 July 2024
 
 Total Time: 12 mins
 
-Other   7 hrs 2 mins    ████████████████████████▒   97.20 %
-LaTeX   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+Other   5 hrs 10 mins   ████████████████████████░   96.22 %
+LaTeX   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
 ```
 
 <!--END_SECTION:waka-->
