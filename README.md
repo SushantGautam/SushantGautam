@@ -43,12 +43,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 July 2024 - To: 27 July 2024
+From: 21 July 2024 - To: 28 July 2024
 
 Total Time: 48 mins
 
-Other           16 hrs 50 mins  ████████████████████████░   95.41 %
-LaTeX           47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Other           16 hrs 15 mins  ███████████████████████▓░   95.25 %
+LaTeX           47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
 Documentation   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 HTML+Django     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
