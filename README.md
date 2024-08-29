@@ -43,15 +43,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2024 - To: 27 August 2024
+From: 21 August 2024 - To: 28 August 2024
 
-Total Time: 42 mins
+Total Time: 3 hrs 45 mins
 
-Other        46 mins         █████████████░░░░░░░░░░░░   52.24 %
-Python       24 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.19 %
-Text         9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
-JSON         7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Python       2 hrs 17 mins   ████████████▓░░░░░░░░░░░░   50.82 %
+Other        46 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
+Docker       19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+YAML         18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+JSON         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
 ```
 
 <!--END_SECTION:waka-->
