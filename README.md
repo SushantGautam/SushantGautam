@@ -43,15 +43,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 August 2024 - To: 03 September 2024
+From: 28 August 2024 - To: 04 September 2024
 
-Total Time: 3 hrs 22 mins
+Total Time: 39 mins
 
-Python         1 hr 53 mins    ███████████▓░░░░░░░░░░░░░   46.07 %
-Other          45 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.20 %
-Docker         19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
-OpenEdge ABL   19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
-YAML           18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
+Other           12 hrs 38 mins  ███████████████████████▓░   95.07 %
+OpenEdge ABL    19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Documentation   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+TeX             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+LaTeX           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
