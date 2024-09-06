@@ -43,15 +43,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2024 - To: 04 September 2024
+From: 29 August 2024 - To: 05 September 2024
 
-Total Time: 39 mins
+Total Time: 1 hr 11 mins
 
-Other           12 hrs 38 mins  ███████████████████████▓░   95.07 %
-OpenEdge ABL    19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-Documentation   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-TeX             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-LaTeX           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Other           18 hrs 57 mins  ███████████████████████▓░   94.10 %
+Documentation   47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+OpenEdge ABL    19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+TeX             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+LaTeX           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
