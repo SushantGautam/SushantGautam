@@ -43,14 +43,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2024 - To: 14 November 2024
+From: 08 November 2024 - To: 15 November 2024
 
-Total Time: 6 hrs 22 mins
+Total Time: 5 hrs 23 mins
 
-Other           33 hrs 52 mins  █████████████████████░░░░   84.17 %
-LaTeX           3 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
-Documentation   2 hrs 36 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
-Markdown        27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Other           34 hrs 25 mins  █████████████████████▓░░░   86.47 %
+Documentation   4 hrs 18 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
+Markdown        32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+LaTeX           22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 Python          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
