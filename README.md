@@ -43,14 +43,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2025 - To: 17 January 2025
+From: 11 January 2025 - To: 18 January 2025
 
-Total Time: 2 hrs 20 mins
+Total Time: 2 hrs 24 mins
 
-Other           13 hrs 6 mins   █████████████████████▒░░░   84.82 %
-LaTeX           2 hrs 19 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
-Python          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Documentation   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Other           14 hrs 8 mins   █████████████████████▒░░░   85.43 %
+LaTeX           2 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 %
+SSH Config      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Python          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Documentation   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
