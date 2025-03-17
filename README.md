@@ -43,15 +43,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 March 2025 - To: 15 March 2025
+From: 09 March 2025 - To: 16 March 2025
 
-Total Time: 8 hrs 22 mins
+Total Time: 13 hrs 25 mins
 
-Other              32 hrs 17 mins  ████████████████████░░░░░   79.41 %
-LaTeX              6 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
-TeX                1 hr 16 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-HTML+Django        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Documentation      20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Other              36 hrs 51 mins  ██████████████████▒░░░░░░   73.31 %
+LaTeX              5 hrs 51 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+Python             4 hrs 27 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+TeX                1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+HTML+Django        48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 ```
 
 <!--END_SECTION:waka-->
