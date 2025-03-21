@@ -43,15 +43,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 March 2025 - To: 19 March 2025
+From: 13 March 2025 - To: 20 March 2025
 
-Total Time: 8 hrs 38 mins
+Total Time: 9 hrs 2 mins
 
-Other              44 hrs 13 mins  █████████████████████░░░░   83.65 %
-Python             5 hrs 32 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
-LaTeX              1 hr            ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-HTML+Django        48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-TOML               21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Other              45 hrs 45 mins  █████████████████████░░░░   83.51 %
+Python             5 hrs 56 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
+LaTeX              1 hr            ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+HTML+Django        48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+TOML               21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
