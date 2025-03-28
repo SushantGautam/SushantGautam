@@ -43,15 +43,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2025 - To: 26 March 2025
+From: 20 March 2025 - To: 27 March 2025
 
-Total Time: 2 hrs 2 mins
+Total Time: 1 hr 37 mins
 
-Other              13 hrs 1 min    █████████████████████▓░░░   86.49 %
-Python             1 hr 40 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
-LaTeX              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Jupyter Notebook   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Documentation      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Other              11 hrs 29 mins  ██████████████████████░░░   87.60 %
+Python             1 hr 16 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
+LaTeX              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Jupyter Notebook   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Documentation      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
