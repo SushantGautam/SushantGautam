@@ -43,11 +43,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2025 - To: 04 June 2025
+From: 29 May 2025 - To: 05 June 2025
 
-Total Time: 0 secs
+Total Time: 41 mins
 
-Other   45 mins         █████████████████████████   100.00 %
+Other        45 mins         █████████████░░░░░░░░░░░░   52.12 %
+Python       22 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.39 %
+HTML         16 mins         █████░░░░░░░░░░░░░░░░░░░░   19.65 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 ```
 
 <!--END_SECTION:waka-->
