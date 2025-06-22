@@ -43,12 +43,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 June 2025 - To: 20 June 2025
+From: 14 June 2025 - To: 21 June 2025
 
 Total Time: 2 mins
 
-Other   1 hr 45 mins    ████████████████████████▒   97.58 %
-Text    2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Other   45 mins         ███████████████████████▓░   94.52 %
+Text    2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
 ```
 
 <!--END_SECTION:waka-->
