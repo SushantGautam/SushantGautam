@@ -1,4 +1,4 @@
-### Namastey! from Nepal :nepal:🙏
+### Namastey! from Oslo 🇳🇴
 
 <a href="https://www.instagram.com/eSushant/">
   <img align="left" alt="Sushant's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
