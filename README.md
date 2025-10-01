@@ -43,13 +43,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 September 2025 - To: 29 September 2025
+From: 23 September 2025 - To: 30 September 2025
 
-Total Time: 2 hrs 11 mins
+Total Time: 3 hrs 21 mins
 
-Other           50 hrs 18 mins  ████████████████████████░   95.82 %
-LaTeX           1 hr 58 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-Documentation   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Other           49 hrs 19 mins  ███████████████████████▒░   93.61 %
+LaTeX           2 hrs 59 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+Documentation   20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 CSV             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 Python          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
