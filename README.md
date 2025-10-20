@@ -1,15 +1,15 @@
 ### Namastey! from Oslo 🇳🇴
 
-<a href="https://www.instagram.com/eSushant/">
-  <img align="left" alt="Sushant's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.instagram.com/eSushant">
+  <img align="left" alt="Sushant's Instagram" height="22px" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" >
 </a>
 
 <a href="https://twitter.com/eSushant">
-    <img alt="Twitter" title="Twitter" height="22px" width="22px" src="https://cdn.simpleicons.org/twitter">
+    <img alt="Twitter" title="Sushant's Twitter" height="22px" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/1200px-X_icon_2.svg.png">
 </a>
 
 <a href="https://www.linkedin.com/in/esushant">
-    <img alt="LinkedIn" title="LinkedIn" height="22px" width="22px" src="https://cdn.simpleicons.org/linkedin">
+    <img alt="LinkedIn" title="Sushant's LinkedIn" height="22px" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png">
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sushantgautam.sushantgautam)
