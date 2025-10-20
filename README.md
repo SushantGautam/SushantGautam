@@ -1,20 +1,16 @@
 ### Namastey! from Oslo 🇳🇴
-
-<a href="https://www.instagram.com/eSushant">
-  <img align="left" alt="Sushant's Instagram" height="22px" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" >
+<a href="https://www.instagram.com/eSushant" style="margin-right: 10px;">
+  <img alt="Sushant's Instagram" height="22" width="22" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png">
 </a>
 
-<a href="https://twitter.com/eSushant">
-    <img alt="Twitter" title="Sushant's Twitter" height="22px" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/1200px-X_icon_2.svg.png">
+<a href="https://twitter.com/eSushant" style="margin-right: 10px;">
+  <img alt="Sushant's Twitter" height="22" width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/1200px-X_icon_2.svg.png">
 </a>
 
 <a href="https://www.linkedin.com/in/esushant">
-    <img alt="LinkedIn" title="Sushant's LinkedIn" height="22px" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png">
+  <img alt="Sushant's LinkedIn" height="22" width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png">
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=sushantgautam.sushantgautam)
-
-<br />
 
 - 🔭 I’m currently working on multiple projects, mostly ML applications.
 - 🌱 I’m currently learning Transformer architectures for Vision, NLU, mostly summarizations.
