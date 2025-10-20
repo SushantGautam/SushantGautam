@@ -58,6 +58,6 @@ LaTeX              1 min           ░░░░░░░░░░░░░░░
 <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SushantGautam&show_icons=true&theme=gotham" alt="SushantGautam" />
 
 
-### 🌐 My Personal Website
+### 🌐 Checkout My Personal Website
 [![sushant.info.np preview](https://image.thum.io/get/maxAge/24/width/700/https://www.sushant.info.np)](https://www.sushant.info.np)
 
