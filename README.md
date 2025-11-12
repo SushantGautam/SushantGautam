@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning Transformer architectures for Vision, NLU, mostly summarizations.
 - 👯 I’m always open to collaborating on cool ideas 
 - 💬 Ask me about anything you think I can answer.
-- 📫 How to reach me?: [Check this!](http://sushant.info.np/)
+- 📫 How to reach me?: [Check this!](https://www.sushant.info.np/#:~:text=Get%20in%20touch)
 - 😄 Pronouns: he/him/his
 - 🌱Ⓥ
 <!-- - ⚡ Fun fact:  -->
