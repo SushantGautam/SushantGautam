@@ -39,15 +39,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2025 - To: 17 November 2025
+From: 11 November 2025 - To: 18 November 2025
 
-Total Time: 17 hrs 34 mins
+Total Time: 18 hrs 19 mins
 
-Other              64 hrs 40 mins  ███████████████████▓░░░░░   78.63 %
-LaTeX              8 hrs 53 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
-Python             5 hrs 39 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-Documentation      2 hrs 17 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-Markdown           39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Other              68 hrs 50 mins  ███████████████████▓░░░░░   78.98 %
+Python             7 hrs 48 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+LaTeX              7 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
+Documentation      2 hrs 18 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+Markdown           32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
