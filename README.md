@@ -39,12 +39,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2025 - To: 07 December 2025
+From: 01 December 2025 - To: 08 December 2025
 
 Total Time: 0 secs
 
-Other           50 hrs 8 mins   █████████████████████████   100.00 %
-Documentation   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Other   50 hrs 6 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
