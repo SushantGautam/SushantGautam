@@ -39,13 +39,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2025 - To: 28 December 2025
+From: 22 December 2025 - To: 29 December 2025
 
-Total Time: 27 mins
+Total Time: 43 mins
 
-Other           59 hrs 17 mins  ████████████████████████▓   99.23 %
-LaTeX           25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-Documentation   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Other           60 hrs 48 mins  ████████████████████████▓   98.83 %
+LaTeX           35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Documentation   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 HTML            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Python          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
