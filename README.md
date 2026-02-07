@@ -39,15 +39,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 January 2026 - To: 04 February 2026
+From: 30 January 2026 - To: 06 February 2026
 
-Total Time: 4 hrs 19 mins
+Total Time: 4 hrs 55 mins
 
-Other              41 hrs 27 mins  ██████████████████████▓░░   90.56 %
-LaTeX              1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-Python             1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-HTML+Django        46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Documentation      31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Other              37 hrs 48 mins  ██████████████████████░░░   88.49 %
+LaTeX              1 hr 56 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+Documentation      1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+Python             53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+HTML+Django        46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
 
 <!--END_SECTION:waka-->
