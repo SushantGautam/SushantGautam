@@ -39,12 +39,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 March 2026 - To: 08 March 2026
+From: 02 March 2026 - To: 09 March 2026
 
-Total Time: 33 mins
+Total Time: 1 hr 16 mins
 
-Other           7 hrs 4 mins          ███████████████████████▒░   92.71 %
-Documentation   33 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+Other           13 hrs 27 mins        ███████████████████████░░   91.35 %
+LaTeX           42 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+Documentation   34 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
 ```
 
 <!--END_SECTION:waka-->
