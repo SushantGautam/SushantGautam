@@ -39,14 +39,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 April 2026 - To: 22 April 2026
+From: 16 April 2026 - To: 23 April 2026
 
-Total Time: 9 hrs 4 mins
+Total Time: 9 hrs 1 min
 
-Other           25 hrs 3 mins         ██████████████████▒░░░░░░   73.43 %
-LaTeX           4 hrs 30 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
-Documentation   3 hrs 53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
-HTML+Django     39 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Other           22 hrs 58 mins        ██████████████████░░░░░░░   71.81 %
+Documentation   5 hrs 34 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.43 %
+LaTeX           3 hrs 21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
+HTML+Django     5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
