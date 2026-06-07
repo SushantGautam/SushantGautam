@@ -56,14 +56,14 @@ Beyond research, I have experience leading engineering teams, supervising studen
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2026 - To: 04 June 2026
+From: 30 May 2026 - To: 06 June 2026
 
-Total Time: 5 hrs 49 mins
+Total Time: 5 hrs 5 mins
 
-Other           29 hrs 38 mins        █████████████████████░░░░   83.56 %
-Documentation   3 hrs 28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
-LaTeX           1 hr 53 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-HTML+Django     28 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Other           24 hrs 9 mins         ████████████████████▓░░░░   82.61 %
+Documentation   3 hrs 17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
+LaTeX           1 hr 19 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+HTML+Django     28 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 ```
 
 <!--END_SECTION:waka-->
