@@ -1,5 +1,5 @@
 ## Namastey from Oslo 🇳🇴 ! I’m Sushant Gautam 👋  
-### Final-Year PhD Student in Multimodal AI | Alignment, Reasoning & Trustworthy Systems
+###  Postdoc fellow in Multimodal AI | Alignment, Reasoning & Trustworthy Systems
 
 I work on AI systems that can **align with human intent, reason across multimodal information, and behave reliably in real-world settings**.
 
