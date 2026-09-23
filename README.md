@@ -56,15 +56,15 @@ Beyond research, I have experience leading engineering teams, supervising studen
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2026 - To: 21 September 2026
+From: 15 September 2026 - To: 22 September 2026
 
-Total Time: 62 hrs 3 mins
+Total Time: 59 hrs 36 mins
 
-Python        33 hrs 1 min          ████████████░░░░░░░░░░░░░   48.06 %
-Markdown      23 hrs 15 mins        ████████▒░░░░░░░░░░░░░░░░   33.85 %
-Other         6 hrs 39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
-Bash          3 hrs 41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
-JSON          53 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Python            31 hrs 50 mins        ██████████▒░░░░░░░░░░░░░░   40.67 %
+Markdown          20 hrs 31 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.22 %
+Other             18 hrs 41 mins        ██████░░░░░░░░░░░░░░░░░░░   23.87 %
+Bash              3 hrs 42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+JSON              1 hr 34 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 ```
 
 <!--END_SECTION:waka-->
