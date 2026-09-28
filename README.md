@@ -72,7 +72,7 @@ HTML              3 hrs 2 mins          █░░░░░░░░░░░░�
 
 ### 📈 My GitHub stats
 
-<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SushantGautam&show_icons=true&theme=gotham" alt="SushantGautam" />
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=SushantGautam&show_icons=true&theme=gotham" alt="SushantGautam" />
 
 
 ### 🌐 Checkout My Personal Website
